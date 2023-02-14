@@ -1,0 +1,1282 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202106 will be lost/reset.
+# Last config file used to build this data file was /home2/tqvkyzrk/tmp/awstats/awstats.gcc.org.ar.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2008                
+POS_TIME 2676                
+POS_VISITOR 28492               
+POS_DAY 41422               
+POS_DOMAIN 3561                
+POS_LOGIN 4328                
+POS_ROBOT 4483                
+POS_WORMS 5418                
+POS_EMAILSENDER 5549                
+POS_EMAILRECEIVER 5692                
+POS_SESSION 42236               
+POS_SIDER 42427               
+POS_FILETYPES 5827                
+POS_DOWNLOADS 5971                
+POS_OS 6062                
+POS_BROWSER 6389                
+POS_SCREENSIZE 8743                
+POS_UNKNOWNREFERER 8817                
+POS_UNKNOWNREFERERBROWSER 9585                
+POS_ORIGIN 10093               
+POS_SEREFERRALS 10235               
+POS_PAGEREFS 10412               
+POS_SEARCHWORDS 11418               
+POS_KEYWORDS 11570               
+POS_MISC 2340                
+POS_ERRORS 11629               
+POS_CLUSTER 4184                
+POS_SIDER_404 11741               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210701002953 124 25171 9189866885731
+FirstTime 0
+LastTime 20210630231432
+LastUpdate 20210701050100 124 0 123 0 0
+TotalVisits 431                 
+TotalUnique 317                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 337                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 19 19 189513 107 206 3868136
+1 22 22 205614 63 165 4175665
+2 15 17 183270 89 227 4646976
+3 21 45 1995557 109 195 7753496
+4 23 23 216349 74 204 4511794
+5 13 13 133967 74 171 2340395
+6 16 46 1407066 65 174 3176127
+7 40 44 604877 75 198 3036752
+8 36 36 355123 140 308 5695856
+9 33 56 1449565 127 278 5080201
+10 22 34 746525 65 208 5223770
+11 23 42 1225805 104 190 11543529
+12 22 113 4987896 122 361 7496619
+13 27 43 903315 93 246 6379930
+14 18 37 1204337 94 232 2818530
+15 95 95 867282 186 320 12454840
+16 30 50 1341283 107 191 7490928
+17 21 73 2850848 66 165 3175923
+18 28 48 1291573 75 259 3809638
+19 15 36 1197251 83 227 9291236
+20 24 42 1619947 79 173 7163919
+21 19 19 174923 109 232 3442142
+22 46 97 3050666 79 209 4092335
+23 21 21 197329 88 245 4689440
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 39
+us 237 300 5040413
+ua 139 139 1297515
+ru 62 76 1260292
+se 25 25 252376
+nl 23 23 251833
+ar 18 234 11716773
+cn 15 64 3012980
+gb 14 35 1292967
+au 13 13 141224
+in 11 11 114479
+cl 9 28 1109346
+de 7 7 72585
+md 7 7 57995
+vn 6 6 64300
+ca 6 6 61382
+ro 6 6 58464
+cw 5 5 53097
+il 5 5 56015
+bh 5 5 56015
+it 4 4 41894
+by 4 4 44812
+br 3 3 30691
+ch 2 2 22406
+lb 2 2 8285
+dk 2 2 19488
+th 1 1 11203
+vg 1 1 11203
+hu 1 1 8285
+mu 1 1 11203
+tr 1 20 1031394
+cz 1 1 11203
+co 2 23 1057448
+fr 1 1 8285
+hk 2 2 22406
+sa 2 2 22406
+pl 1 1 11203
+bd 1 1 11203
+sc 2 2 22406
+kr 2 2 22406
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 21
+AhrefsBot/ 2022 75309246 20210630172651 0
+bingbot/ 240 32526324 20210630151825 0
+baidu 191 9484448 20210627132625 0
+Googlebot/ 148 4236914 20210630215438 0
+oBot/ 52 553224 20210628200942 0
+MJ12bot/ 46 382822 20210630051940 0
+Apache\-HttpClient/ 40 331400 20210601094019 0
+robot 26 9370088 20210618185241 0
+crawl 24 228247 20210624004214 0
+CCBot/ 14 163092 20210620095717 0
+MegaIndex\.ru/ 12 130021 20210630032928 0
+java 11 118190 20210629145318 0
+360Spider 11 91135 20210626063303 0
+DomainStatsBot/ 10 105202 20210619124408 0
+no_user_agent 9 80401 20210629125059 0
+DuckDuckGo\-Favicons\-Bot/ 8 50444 20210630193007 0
+MixrankBot 6 67791 20210611093145 0
+bot[\s_+:,\.\;\/\\-] 5 16570 20210630045922 0
+bingpreview 4 53133 20210623000000 0
+MSIECrawler 3 24855 20210615030248 0
+curl 2 8285 20210629104818 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 165 7524195 0 0
+html 649 6365803 0 0
+jpg 107 9497254 0 0
+js 150 5012629 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/assets/videos/usina_2019.mp4 8 0 36440184
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 21
+ios_iphone 2 2
+win2000 3 3
+winnt 10 10
+win2003 4 4
+macosx9 1 1
+win7 79 79
+Unknown 84 42
+winxp 63 63
+linuxandroid 50 7
+linux 97 85
+win16 3 3
+win8 3 3
+win8.1 83 41
+winlong 10 10
+macosx8 2 2
+win10 458 255
+macosx11 20 1
+unix 4 4
+macosx10 2 2
+macosx 90 29
+win98 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 109
+opera54.0.2952.54 2 2
+chrome88.0.4240.193 21 21
+chrome66.0.3359.117 1 1
+firefox13.0.1 2 2
+chrome91.0.4472.101 19 3
+chrome88.0.4324.190 2 2
+chrome26.0.1410.65 1 1
+chrome89.0.4389.82 2 2
+chrome83.0.4103.0 8 8
+chrome41.0.2224.3 1 1
+chrome83.0.4089.0 8 8
+opera8.01 2 2
+chrome85.0.4183.102 1 1
+chrome91.0.4472.77 184 11
+chrome28.0.1468.0 1 1
+msie5.0 4 4
+chrome65.0.3325.146 2 2
+chrome83.0.4099.2 10 10
+chrome32.0.1664.3 2 2
+chrome72.0.3626.109 3 3
+Unknown 17 12
+chrome78.0.3904.62 2 1
+firefox53.0 6 6
+chrome51.0.2704.64 1 1
+msie11.0 1 1
+opera62.0.3331.99 1 1
+chrome39.0.2171.95 1 1
+firefox62.0 2 2
+msie6.0 54 54
+chrome67.0.3396.79 3 3
+chrome34.0.1847.116 7 7
+chrome60.0.3112.107 1 1
+chrome84.0.4147.105 7 7
+chrome85.0.4183.121 7 7
+chrome67.0.3396.99 2 2
+chrome67.0.3396.62 2 2
+chrome79.0.3945.117 12 12
+chrome83.0.4103.61 70 70
+chrome68.0.3440.106 3 3
+opera55.0.2994.44 3 3
+chrome45.0.2454.94 1 1
+safari10.0 1 1
+netscape5.0 17 1
+chrome49.0.2623.75 4 2
+chrome50.0.2661.95 1 1
+chrome71.0.3578.98 4 4
+chrome65.0.3325.181 2 2
+chrome83.0.4103.106 1 1
+chrome79.0.3945.130 29 5
+chrome80.0.3987.116 1 1
+chrome70.0.3538.77 1 1
+chrome83.0.4093.3 15 15
+chrome75.0.3770.100 4 4
+chrome81.0.4044.129 9 9
+firefox57.0 1 1
+chrome83.0.4103.97 69 69
+chrome85.0.4183.83 1 1
+msie7.0 3 3
+opera69.0.3686.7 13 13
+netscape4.61 3 3
+opera9.00 6 6
+chrome55.0.2883.87 1 1
+opera51.0.2830.55 1 1
+chrome83.0.4103.24 14 14
+chrome27.0.1453.93 2 2
+chrome83.0.4103.34 25 25
+chrome68.0.3427.1 8 0
+chrome83.0.4087.0 10 10
+chrome62.0.3202.84 1 1
+iphone 1 1
+chrome83.0.4102.0 14 14
+firefox59.0 1 1
+chrome91.0.4472.88 25 2
+chrome91.0.4472.114 43 3
+chrome83.0.4098.0 9 9
+chrome86.0.4240.183 1 1
+firefox79.0 2 2
+chrome5.0.307.7 1 0
+mozilla 50 29
+firefox84.0 16 16
+chrome83.0.4100.3 3 3
+msie5.5 3 3
+opera52.0.2871.64 15 15
+opera54.0.2952.71 1 1
+firefox82.0 2 1
+chrome65.0.3325.183 1 1
+opera7.54 3 3
+opera54.0.2952.64 2 2
+chrome51.0.2704.84 20 1
+chrome32.0.1667.0 2 2
+opera8.00 3 3
+chrome67.0.3396.87 3 3
+chrome83.0.4096.0 7 7
+chrome91.0.4472.106 35 3
+edge16 2 2
+chrome41.0.2228.0 1 1
+firefox65.0 6 6
+chrome78.0.3904.108 3 3
+chrome83.0.4103.44 2 2
+opera7.60 3 3
+chrome59.0.3071.15 1 1
+opera76.0.4017.177 23 2
+chrome41.0.2227.0 1 1
+chrome83.0.4103.14 3 3
+chrome83.0.4086.0 10 10
+chrome31.0.1650.16 1 1
+opera9.0 3 3
+msie4.01 3 3
+chrome91.0.4472.120 20 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+Mozilla/5.0_(compatible;__centuryb.o.t9[at]gmail.com) 20210614153231
+Mozilla/5.0_(compatible;_Dataprovider.com) 20210610222254
+python-requests/2.25.1 20210614100549
+Mozilla/5.0_(compatible;_ips-agent) 20210608090657
+ltx71_-_(http://ltx71.com/) 20210627161126
+Mozilla/4.0_(compatible;_Synapse) 20210616135142
+User-Agent\ 20210628024451
+Mozilla/5.0 20210616064400
+My_User_Agent_1.0 20210625200833
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210602091933
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210602091933
+ltx71_-_(http://ltx71.com/) 20210627161126
+python-requests/2.25.1 20210614100549
+My_User_Agent_1.0 20210625200833
+User-Agent\ 20210628024451
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 288 298
+From1 1 1
+From2 11 11
+From3 86 86
+From4 263 675
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+youtube 10 10
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 26
+https://xxxhdvideo.site 9 9
+https://dverirespekt.ru 6 6
+https://avtolombard-voronezh.ru 6 6
+https://slovar-sinonimov.com 6 6
+https://centrdezinsekcii.ru 6 6
+https://medtest-clinic.ru 6 6
+https://pornosok.ru 6 6
+https://sesru.ru 3 3
+https://xn--80atua3d.xn--p1ai 3 3
+https://pornohub.me 3 3
+https://jobgirl24.ru 3 3
+https://sexkvartal.com 3 3
+https://subject-book.com 3 3
+https://palmira-clinic.com.ua 3 3
+https://rupostindex.com 3 3
+http://livesex-amateure.info 3 3
+https://seksphoto.ru 3 3
+https://lesluthiers.org 2 2
+http://www.musicacoralnet.com.ar 2 2
+https://uzporno.mobi 1 1
+http://lfxf.zhiang.net 1 1
+https://mp3s.wtf 1 1
+https://themagnet.space/realexgirlfriends-16-10-27-lilly-ford-happy-ending-xxx-1080p-mp4-23630-freedl 1 1
+https://l.instagram.com 1 1
+http://www.choirs.org.uk/international%20choirs/argentina.html 1 1
+https://joyofmusic.wtf 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 2190 0
+206 2 16570
+403 115 9775
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 439
+/integrantes.html/assets/theme/js/script.js 1 -
+/htm/edito/anti/par/ch_co.htm 3 -
+/htm/edito/arge/par-fn/de_von.htm 1 -
+/htm/edito/popu/par-mix/qu_ad.htm 1 -
+/plugins/content/apismtp/apismtp.php.suspected 1 -
+/wp-content/plugins/apikey/apikey.php 1 -
+/htm/edito/popu/par-fn/ga_bgfn.htm 2 -
+/camara/events/gcc-en-la-primera-iglesia-metodista/ 1 -
+/htm/edito/cora/cora.htm 9 -
+/htm/edito/popu/par-mix/ze_in2.htm 1 -
+/sitemap.xml 1 -
+/htm/edito/bio/camps.htm 2 -
+/htm/edito/les/par-les/lesp.htm 1 -
+/htm/edito/xautor/za.htm 20 -
+/htm/edito/popu/par-fn/po_mafn.htm 1 -
+/.git/config 3 -
+/htm/edito/popu/par-mix/rs_ga.htm 1 -
+/htm/edito/popu/par-mix/la_na.htm 2 -
+/nuestra_historia.html/assets/dropdown/js/script.min.js 1 -
+/htm/edito/popu/par-mix/ze_re.htm 1 -
+/htm/edito/popu/mixt5.htm 4 -
+/htm/edito/popu/par-mix/za_bs.htm 1 -
+/camara/2/ 1 -
+/wp-includes 1 www.google.com
+/htm/edito/popu/par-mix/pal_nos.htm 1 -
+/htm/edito/xautor/al.htm 1 -
+/page13.html 1 -
+/doc/cartel_prox_con.jpg 1 -
+/page10.html 21 http://www.gcc.org.ar/
+/htm/edito/popu/par-mix/pt_fl.gif 1 -
+/htm/edito/CR/cr_mt.htm 1 -
+/camara/contacto/ 10 -
+/htm/edito/cora/tap_hom.htm 7 http://www.gcc.org.ar/
+/htm/edito/CR/ad_obprem.htm 1 -
+/page1.html 1 -
+/htm/edito/popu/par-mix/an_ar.htm 1 -
+/htm/edito/popu/par-mix/rs_ga2.htm 1 -
+/htm/edito/popu/par-mas/ 2 -
+/camara/gallery-listing/ 1 -
+/htm/edito/popu/par-mix/vi_4.htm 8 http://elblogdelaeducacionmusical.blogspot.com/
+/htm/edito/popu/par-mix/vi_5.htm 8 -
+/htm/edito/edito.htm 6 http://www.gcc.org.ar/
+/htm/edito/popu/par-mix/ze_qu.htm 1 -
+/htm/edito/cora/tap_ferra.htm 2 -
+/camara/wp-content/uploads/2014/07/2004Mexico-2.jpg 1 -
+/htm/edito/xautor/mo.htm 4 http://www.gcc.org.ar/
+/mini.php 1 -
+/camara/wp-content/uploads/2017/05/CD_convidando.pdf 1 -
+/site/wp-admin/install.php 1 -
+/htm/edito/xautor/fr.htm 1 -
+/camara/cam-eng/camara.htm 2 https://www.linguee.es/ingles-espanol/traduccion/artistic+collaboration.html
+/camara/director/director.htm 7 http://www.gcc.org.ar/
+/htm/edito/popu/par-mix/vi_3.htm 7 -
+/htm/edito/popu/par-mix/rs_is.htm 1 -
+/htm/edito/bio/gionno.htm 1 -
+/camara/galleries/live-at-athens/ 1 -
+/wp-content/plugins/apikey/apikey.php.suspected 1 -
+/htm/edito/popu/par-mix/mo_se.htm 1 -
+/htm/edito/bio/moru.htm 1 -
+/htm/edito/popu/spir.htm 17 http://www.gcc.org.ar/htm/edito/popu/spir.htm
+/htm/edito/anti/par/es_co.htm 2 -
+/htm/edito/cora/tap_esc.htm 1 -
+/htm/edito/popu/par-mix/mo_va.htm 1 -
+/htm/edito/popu/par-mix/re_oc.htm 1 -
+/camara/el-coro/ 5 -
+/htm/edito/popu/par-mix/du_el.htm 2 -
+/camara//blog/wp-content/plugins/ioptimization/IOptimize.php 1 -
+/htm/edito/popu/par-mas/ze_so.htm 2 -
+/htm/edito/xautor/fe.htm 1 -
+/htm/edito/arge/par-mix/mn_g1.htm 1 -
+/htm/edito/popu/feme.htm 1 -
+/htm/edito/arge/par-mix/vr_ri.htm 2 -
+/htm/edito/bio/agurev.htm 4 http://www.gcc.org.ar/
+/htm/edito/popu/par-mix/ve_po.htm 1 -
+/apple-touch-icon.png 154 -
+/htm/edito/popu/par-sp/ca_7A10.htm 1 -
+/htm/edito/popu/par-mix/ze_h8.htm 1 -
+/htm/edito/doc/catalogoEDGCC_SEPT_2013a.pdf 2 -
+/htm/edito/popu/par-fn/bu_adfn.htm 3 -
+/media/wp-includes/wlwmanifest.xml 1 -
+/blog/wp-includes/wlwmanifest.xml 8 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/htm/edito/popu/par-fn/de_5.htm 1 -
+/htm/edito/popu/par-mix/fe_yo.htm 1 -
+/htm/edito/xautor/va.htm 1 -
+/downloader/ 1 http://gcc.org.ar/downloader/
+/htm/edito/arge/masc.htm 1 -
+/htm/edito/popu/par-mix/fr_na.htm 1 -
+/camara/contacto/feed/ 1 -
+/htm/edito/arge/par-mix/mo_s1.htm 4 http://www.gcc.org.ar/
+/htm/edito/popu/par-mix/pa_to.htm 1 -
+/htm/edito/xautor/qu.htm 1 -
+/test/wp-includes/wlwmanifest.xml 8 -
+/admin.php 1 http://gcc.org.ar/admin.php
+/camara/fausto-criollo-en-lujan/ 3 -
+/htm/edito/xautor/to.htm 1 -
+/htm/edito/popu/par-mix/an_na.htm 2 -
+/htm/edito/otras/act.htm 3 -
+/wp/ 1 -
+/htm/edito/popu/par-mas/ze_so.gif 1 -
+/ads.txt 64 -
+/htm/edito/arge/nini.htm 7 -
+/htm/edito/popu/par-mix/rs_mo.htm 1 -
+/camara 6 http://www.gcc.org.ar/
+/htm/edito/popu/par-mix/ma_su.htm 2 -
+/htm/edito/xautor/pl.htm 1 -
+/camara/galleries/drum-base/ 1 -
+/htm/edito/arge/par-fn/an_cufn.htm 1 -
+/htm/camara/camara.htm 3 -
+/htm/edito/popu/par-mix/za_za.htm 1 -
+/htm/edito/popu/par-mix/vi_6.htm 8 http://elblogdelaeducacionmusical.blogspot.com/
+/htm/edito/anti/anti.htm 2 -
+http://gcc.org.ar/up.php 1 -
+/camara/staff.htm 1 -
+/camara/wp-content/uploads/2014/05/CD_gcc1998.jpg 1 -
+/apple-touch-icon-152x152-precomposed.png 10 -
+/htm/edito/popu/par-mix/rs_do.htm 2 -
+/htm/edito/les/les.htm 86 -
+/backup/wp-admin/ 2 http://gcc.org.ar/
+/htm/edito/img/aut/zen.jpg 1 -
+/htm/edito/arge/arge.htm 3 -
+/htm/edito/arge/par-mix/sj_ad.htm 1 -
+/integrantes.html/assets/dropdown/js/script.min.js 1 -
+/htm/edito/popu/par-mix/ze_mi2.htm 1 -
+/htm/edito/popu/par-fn/de_3.htm 5 -
+/htm/edito/arge/par-mix/al_s1.htm 1 -
+/shop/wp-includes/wlwmanifest.xml 8 -
+/htm/edito/otras/ 1 -
+/htm/edito/anti/par/ch_V.htm 1 -
+/page3.html 11 -
+/nuestra_historia.html/assets/web/assets/jquery/jquery.min.js 1 -
+/camara/page/2/ 1 -
+/htm/edito/bio/afelice.htm 1 -
+/htm/edito/popu/par-mix/ejmus/ 1 -
+/htm/edito/popu/par-fn/esc_el.htm 2 -
+/camara/wp-content/uploads/2017/11/CD_convidando.pdf 1 -
+/doc/bolet/bol23.htm 1 -
+/htm/edito/popu/par-mix/rs_la.htm 2 -
+/htm/edito/xautor/es.htm 1 -
+/htm/edito/popu/par-fn/co_do.htm 1 -
+/htm/edito/popu/par-mix/fr_ca.htm 1 -
+/htm/edito/arge/par-mix/rs_r1.htm 1 -
+/htm/edito/popu/par-fn/esc_lan.htm 1 -
+/htm/edito/popu/par-mix/ze_na.htm 1 -
+/htm/edito/arge/par-mix/an_c1.htm 3 -
+/2020/wp-includes/wlwmanifest.xml 7 -
+/htm/edito/cora/tap_par.htm 2 -
+/htm/edito/popu/par-mix/va_tr.htm 1 -
+/htm/edito/xautor/tr.htm 2 -
+/htm/edito/popu/par-cm/ 11 -
+/htm/edito/popu/par-mix/mr_aq.gif 1 -
+/htm/edito/popu/par-mix/rs_na2.htm 1 -
+/wordpress/ 1 -
+/camara/wp-content/uploads/2014/07/IMGP6292.jpg 1 -
+/htm/edito/CR/cr_za.htm 3 -
+/htm/edito/popu/par-fn/ga_cofn.htm 1 -
+/old/wp-admin/install.php 1 -
+/htm/edito/img/kul/logkul-nonar.jpg 1 -
+/htm/edito/xautor/me.htm 1 -
+/htm/edito/xautor/mer.htm 1 -
+/htm/camara/musica/musica.htm 5 -
+/integrantes.html/assets/smoothscroll/smooth-scroll.js 1 -
+/wp1/wp-includes/wlwmanifest.xml 8 -
+/htm/edito/popu/par-mix/rs_pa2.htm 1 -
+/apple-touch-icon-152x152.png 10 -
+/htm/edito/popu/par-mix/ve_ma2.htm 1 -
+/wordpress/wp-admin/ 3 http://gcc.org.ar/
+/htm/edito/popu/par-mix/ma_ti.htm 2 -
+/integrantes.html/assets/bootstrap/js/bootstrap.min.js 1 -
+/camara/wp-content/uploads/2014/05/CD_gcc2011.jpg 1 -
+/wp-login.php 12 -
+/htm/edito/xautor/mt.htm 1 -
+/camara/benefactores/ 9 -
+/htm/edito/arge/par-mix/mo_ms.htm 2 -
+/camara/director_eng/ 13 -
+/blog/wp-login.php 12 -
+/htm/edito/xautor/lt.htm 1 -
+/htm/edito/popu/par-cm/1.htm 4 -
+/camara/home/feed/ 1 -
+/htm/edito/xautor/gi.htm 1 -
+/blog/wp-admin/install.php 1 -
+/htm/edito/popu/par-mix/za_ba.htm 1 -
+/htm/edito/popu/par-fn/za_2n.gif 1 -
+/htm/edito/popu/par-sp/ca_1A6.htm 2 -
+/htm/edito/cora/tap_ferry.htm 2 -
+/htm/edito/arge/mixt.htm 1 -
+/htm/edito/xautor/fi.htm 1 -
+/htm/edito/xautor/ba.htm 2 -
+/camara/events/gcc-en-la-congregacion-evangelica-hungara/ 1 -
+/htm/edito/xautor/mr.htm 1 -
+/htm/edito/popu/par-mix/fr_co.htm 1 -
+/camara/wp-content/uploads/2014/02/gcc-foto-rolling_MG_9535_ALTA-1-1024x683.jpg 1 -
+/htm/edito/popu/par-mix/rs_na.htm 1 -
+/htm/edito/popu/par-mix/ma_ch.htm 2 -
+/camara/wp-content/uploads/2017/09/LAABADIA.jpg 1 -
+/htm/edito/popu/par-mas/ze_h9.htm 1 -
+/integrantes.html/assets/parallax/jarallax.min.js 1 -
+/htm/edito/xautor/de.htm 3 -
+/HTM/EDITO/CR/cr_mt.htm 1 -
+/htm/edito/popu/par-fn/de_8.htm 1 -
+/camara//wp-content/plugins/ioptimizations/IOptimizes.php 1 -
+/backup/wp-admin/install.php 1 -
+/2019/wp-includes/wlwmanifest.xml 8 -
+/camara/events/gcc-con-la-academia-bach-de-buenos-aires/ 1 -
+/site/wp-includes/wlwmanifest.xml 8 -
+/htm/edito/popu/par-mix/rs_ch2.htm 1 -
+/htm/edito/popu/par-mix/mr_aq2.htm 1 -
+/nuestra_historia.html/assets/parallax/jarallax.min.js 1 -
+/camara/wp-content/uploads/2014/07/2008GCC.jpg 1 -
+/htm/edito/popu/par-mix/vi_1.htm 8 -
+/htm/edito/anti/par/sa.gif 6 -
+/img/bullet1.gif 1 -
+/content.php 1 -
+/htm/edito/popu/par-mix/za_mu.htm 2 -
+/htm/edito/cod/cod_en.htm 1 -
+/htm/edito/popu/par-mix/ze_el.htm 1 -
+/wp-content/ 1 -
+/camara/misa-en-si-menor-de-j-s-bach-con-la-barroca-del-suquia/ 1 -
+/htm/edito/img/iz2.png 2 -
+/camara//blog/wp-content/plugins/ioptimization/IOptimizes.php 1 -
+/htm/edito/otras/nove.htm 2 -
+/camara//wp-content/plugins/ioptimization/IOptimize.php 1 -
+/htm/edito/popu/par-mix/es_sa.htm 2 -
+/htm/edito/les/par-les/lesp5.htm 1 -
+/htm/edito/popu/par-fn/de_nen.htm 1 -
+/website/wp-includes/wlwmanifest.xml 8 -
+/htm/edito/anti/par/fr.htm 1 -
+/admin/ 1 http://gcc.org.ar/admin/
+/camara//wp-content/themes/twentynineteen/404.php 1 -
+/htm/edito/bio/pesce.htm 2 -
+/camara/camara.htm 3 -
+/camara/events/gcc-en-la-iglesia-evangelica-del-rio-de-la-plata-2/ 1 -
+/old/wp-admin/ 1 http://gcc.org.ar/
+/wp-admin/install.php 1 -
+/oldsite/wp-admin/install.php 1 -
+/htm/edito/xautor/vi.htm 1 -
+/htm/edito/popu/par-fn/de_7.htm 2 -
+/htm/edito/popu/canmun.htm 2 -
+/.env 18 -
+/htm/edito/popu/mixt.htm 2 -
+/wp/wp-includes/wlwmanifest.xml 8 -
+/config.bak.php 1 -
+/web/wp-admin/install.php 1 -
+/integrantes.html/assets/web/assets/jquery/jquery.min.js 1 -
+/htm/edito/bio/mansill.htm 1 -
+/htm/edito/xautor/da.htm 1 -
+/htm/edito/arge/par-mix/se_s1.htm 1 -
+/htm/edito/popu/par-sp/ca_17A22.htm 1 -
+/camara/coros-de-la-misa-en-si-menor-de-j-s-bach/feed/ 1 -
+/page7.html 1 -
+/htm/edito/arge/par-mix/mn_pr.html 1 -
+/htm/home.htm 6 -
+/htm/edito/popu/par-fn/lt_san.htm 1 -
+/HTM/EDITO/ANTI/ESPA.HTM 1 -
+/camara/coros-de-la-misa-en-si-menor-de-j-s-bach/ 1 -
+/htm/edito/bio/bisso.htm 2 -
+/htm/edito/mus.htm 1 -
+/htm/edito/popu/par-fn/ta_trf.htm 2 -
+/administrator/ 1 http://gcc.org.ar/administrator/
+/sito/wp-includes/wlwmanifest.xml 8 -
+/camara/wp-content/uploads/2014/07/2009a.jpg 1 -
+/htm/edito/arge/mixt3.htm 1 -
+/htm/edito/xautor/nn.htm 1 -
+/htm/edito/popu/par-fn/de_6.htm 1 -
+/htm/cam-fran/musica/musica.htm 1 -
+/htm/edito/xautor/autores.htm 16 -
+/htm/edito/popu/par-fn/lt_con.htm 2 -
+/camara//blog/wp-content/plugins/ioptimizations/IOptimizes.php 1 -
+/wordpress/wp-login.php 11 -
+/vendor/phpunit/phpunit/LICENSE 1 -
+/htm/edito/arge/par-mix/vt_p1.htm 1 -
+/htm/edito/arge/par-mix/gl_1.htm 1 -
+/contacto.html++GET+http://gcc.org.ar/contacto.html+%5B0,11369,11436%5D+-%3E+ 2 http://gcc.org.ar/contacto.html++GET+http://gcc.org.ar/contacto.html+%5B0,11369,11436%5D+-%3E+
+/htm/edito/xautor/ta.htm 1 -
+/doc/bolet/bol12.htm 1 -
+/htm/cam-fran/staff/staff.htm 1 -
+/htm/edito/anti/es.htm 11 -
+/nuestra_historia.html/assets/touchswipe/jquery.touch-swipe.min.js 1 -
+/htm/edito/arge/par-mix/ 1 -
+/htm/edito/anti/ch.htm 2 -
+/htm/edito/popu/par-mix/an_ma.htm 1 -
+/camara/wp-content/uploads/2017/11/CD_flordelpais_.pdf 1 -
+/htm/edito/popu/par-mix/ta_co.htm 2 -
+/camara//wp/wp-content/plugins/ioptimization/IOptimize.php 1 -
+/htm/edito/popu/par-mix/da_pa.htm 2 -
+/htm/edito/popu/par-mix/ma_co.htm 3 -
+/apple-touch-icon-precomposed.png 156 -
+/htm/edito/popu/par-mix/fr_no.htm 1 -
+/htm/edito/popu/par-mix/za_ma.htm 1 -
+/htm/edito/otras/quien.htm 3 -
+/htm/edito/CR/cr_ze.htm 1 -
+/wordpress/wp-includes/wlwmanifest.xml 8 -
+/htm/edito/popu/par-fn/cu_zafn.htm 1 -
+/humans.txt 1 -
+/htm/edito/xautor/zi.htm 1 -
+/htm/edito/popu/par-fn/za_2n.htm 1 -
+/htm/edito/xautor/an.htm 13 http://www.gcc.org.ar/
+/camara/wp-content/uploads/2017/09/cuadrado-1.jpg 1 -
+/htm/edito/xautor/rs.htm 2 -
+/htm/edito/anti/par/ch_ni.htm 1 -
+/htm/edito/popu/par-sp/ 12 -
+/nuestra_historia.html/assets/popper/popper.min.js 1 -
+/htm/edito/anti/par/fr_co.htm 4 -
+/doc/bolet/bol16.htm 1 -
+/camara/wp-content/uploads/2017/11/CD_otraflor_.pdf 1 -
+/htm/edito/popu/par-mix/vi_2.htm 7 -
+/htm/edito/anti/par/ch_lp.htm 2 -
+/htm/edito/xautor/ma.htm 2 -
+/2018/wp-includes/wlwmanifest.xml 1 -
+/camara/el-coro/feed/ 1 -
+/camara/wp-content/uploads/2017/07/LAABADIA_evento.jpg 1 -
+/htm/edito/otras/cd_cat.htm 4 -
+/index.php 1 -
+/web/wp-includes/wlwmanifest.xml 8 -
+/plugins/content/apismtp/apismtp.php 1 -
+/robots.txt 307 -
+/camara/feed/ 1 -
+/nuestra_historia.html/assets/theme/js/script.js 1 -
+/htm/edito/popu/par-mix/fr_re.htm 1 -
+/htm/edito/edito.html 185 -
+/htm/edito/bolet/ag10/email.html 1 -
+/htm/edito/CR/cr_ad.htm 4 -
+/camara//wordpress/wp-content/plugins/ioptimization/IOptimize.php 1 -
+/HTM/EDITO/otras/mus.htm 1 -
+/htm/edito/popu/par-sp/ca_co.htm 2 -
+/HTM/EDITO/edito.html 1 -
+/htm/edito/popu/par-mix/za_pa.htm 1 -
+/camara/ciclo-interpretes-argentinos-2/ 1 -
+/camara/370/ 3 -
+/htm/edito/ped_cat.htm 16 -
+/wp/wp-admin/install.php 1 -
+/wordpress/wp-admin/install.php 1 -
+/htm/edito/otras/mus.htm 6 -
+/htm/edito/xautor/ho.htm 1 -
+/htm/edito/popu/par-mix/bu_to.htm 1 -
+/camara//wp-content/themes/twentysixteen/404.php 1 -
+/htm/edito/cora/cora2.htm 10 -
+/wp-admin/ 3 http://gcc.org.ar/
+/htm/edito/popu/ejmus/ 1 -
+/htm/edito/popu/masc.htm 5 -
+/OLD/wp-admin/ 2 http://gcc.org.ar/
+/htm/edito/arge/par-mix/vr_t1.htm 3 -
+/htm/edito/xautor/blog.htm 1 -
+/img_gral/novedades.gif 1 -
+/htm/edito/xautor/vt.htm 1 -
+/htm/edito/xautor/bo.htm 1 -
+/htm/edito/xautor/bi.htm 1 -
+/camara/galeria/ 3 -
+/htm/edito_en/edito.html 2 -
+/Backoffice/ 1 http://gcc.org.ar/Backoffice/
+/htm/edito/arge/feme.htm 2 -
+/htm/edito/arge/par-fn/al_dof.htm 1 -
+/htm/edito/CR/cr.htm 2 -
+/camara/chorus/ 10 -
+/wp/wp-admin/ 2 http://gcc.org.ar/
+/camara//wp-content/themes/twentyfourteen/404.php 1 -
+/htm/edito/popu/par-mix/go_ch.htm 1 -
+/htm/edito/popu/par-mix/fe_ch.htm 1 -
+/test/wp-admin/install.php 1 -
+/htm/edito/popu/par-fn/de_1.htm 2 -
+/htm/edito/popu/par-mix/pe_so.htm 1 -
+/htm/edito/popu/par-mix/ps_in.htm 1 -
+/htm/edito/popu/nini.htm 13 -
+/htm/edito/popu/par-fn/pw_ron.htm 1 -
+/camara/ 127 -
+/nuestra_historia.html/assets/tether/tether.min.js 1 -
+/htm/edito/xautor/ec.htm 1 -
+/htm/edito/bio/chabuca.htm 8 http://www.gcc.org.ar/
+/htm/edito/xautor/esc.htm 1 -
+/camara/concierto-academia-bach-de-buenos-aires/ 1 -
+/htm/edito/popu/par-mix/ze_so.gif 1 -
+/htm/edito/popu/par-mix/wi_ac.htm 1 -
+/camara/cam-fran/camara.htm 1 -
+/camara/wp-content/uploads/2014/07/2006Convento-de-Santo-Domingo.jpg 1 -
+/camara/giras/ 5 -
+/camara//wp/wp-content/plugins/ioptimizations/IOptimizes.php 1 -
+/wp-admin/upload_index.php 1 -
+/camara/wp-content/uploads/2014/07/2006Presentaci%C3%B3n-de-Otra-Flor.jpg 1 -
+//vendor/phpunit/phpunit/phpunit.xsd 1 -
+/default.htm 1 -
+/htm/edito/anti/par-sp/it_co.htm 1 -
+/htm/edito/popu/par-mix/ze_h2.htm 1 -
+/wp-json/wp/v2/users/ 1 -
+/page11.html 2 -
+/admin/index.php 1 -
+/htm/edito/popu/par-mix/mr_aq.htm 3 -
+/FilePermissions.aspx 1 -
+/htm/edito/popu/par-mix/bi_ma.htm 2 -
+/htm/edito/popu/par-mix/gi_li.htm 2 -
+/htm/edito/xautor/ze.htm 1 -
+/cms/wp-includes/wlwmanifest.xml 8 -
+/htm/edito/popu/par-mix/mo_za.htm 4 -
+/cms/wp-admin/install.php 1 -
+/htm/edito/popu/popu.htm 2 -
+/new/wp-admin/install.php 1 -
+/htm/edito/popu/mixt2.htm 2 -
+/camara/wp-content/uploads/2014/02/2006Parroquia-San-Nicolas-de-Bari.jpg 1 -
+/camara/audio/ 12 -
+/wp-includes/wlwmanifest.xml 8 -
+/wp2/wp-includes/wlwmanifest.xml 8 -
+/wp/wp-login.php 11 -
+/news/wp-includes/wlwmanifest.xml 8 -
+/integrantes.html/assets/touchswipe/jquery.touch-swipe.min.js 1 -
+/camara/coros-de-la-misa-en-si-menor-de-j-s-bach-5/ 1 -
+/htm/edito/popu/mixt4.htm 1 -
+/htm/edito/popu/par-mix/cu_cm.htm 1 -
+/htm/edito/arge/par-fn/mu_prn.htm 1 -
+/htm/edito/anti/it.htm 2 -
+/htm/edito/CR/cr_ac.htm 1 -
+/htm/edito/img/tapas/ren_med2.jpg 1 http://clasesdecantoytecnicavocal.blogspot.com/
+/htm/edito/popu/mixt3.htm 1 -
+/htm/edito/popu/par-mix/za_al.htm 2 -
+/htm/edito/anti/fr.htm 2 -
+/htm/edito/popu/par-fn/de_4.htm 1 -
+/htm/edito/arge/par-mix/ca_la.htm 2 -
+/camara/director/ 5 -
+/htm/camara/director/director.htm 9 -
+/htm/edito/arge/mixt2.htm 1 -
+/camara/events/gcc-en-el-ciclo-de-musica-en-el-anexo-del-senado/ 1 -
+/htm/edito/popu/par-mix/ze_in.htm 1 -
+/htm/edito/xautor/fn.htm 1 -
+/camara/director.htm 7 http://www.gcc.org.ar/
+/camara//wp-content/plugins/ioptimization/IOptimizes.php 1 -
+/htm/edito/popu/par-fn/de_2.htm 1 -
+/doc/bolet/bol13.htm 1 -
+/htm/edito/instr/inst.htm 5 -
+/htm/edito/popu/par-mix/da_es.htm 5 -
+/htm/edito/xautor/wi.htm 1 -
+/htm/edito/popu/par-mix/va_ma.htm 1 -
+/htm/boletin/ultimo/nota7.htm 2 -
+/htm/edito/popu/par-mix/za_co.htm 2 -
+/htm/edito/bio/jcura.htm 2 -
+/nuestra_historia.html/assets/bootstrap/js/bootstrap.min.js 1 -
+/htm/edito/edito_cat.htm 3 -
+/htm/edito/xautor/vr.htm 1 -
+/htm/edito/img/tapas/esc_tagd.gif 1 -
+/htm/edito/popu/par-mix/vi_7.htm 8 http://elblogdelaeducacionmusical.blogspot.com/
+/camara//wordpress/wp-content/plugins/ioptimizations/IOptimizes.php 1 -
+/camara/temporada.html 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 337
+195.123.209.118 48 48 397680 20210627014043
+178.150.47.62 21 21 173985 20210612080426
+188.122.82.146 17 17 190451 20210626133441
+37.229.198.180 17 17 140845 20210629015048
+188.163.47.9 15 15 168045 20210627142554
+64.62.202.81 12 12 130021 20210614153231
+184.94.240.92 12 12 104320 20210610162417
+192.36.136.246 12 12 130021 20210616073137
+144.217.135.220 12 12 129329 20210610222235
+202.61.245.108 12 12 130021 20210608083052
+178.159.37.139 10 10 112030 20210629220657
+35.239.58.193 8 13 225227 20210627161126
+188.35.131.246 8 8 89624 20210621150739
+159.65.24.22 7 7 85660 20210615105720
+95.105.124.172 7 7 78421 20210615103802
+176.123.9.201 6 6 49710 20210628110806
+40.88.29.39 6 6 49710 20210606214714
+171.244.1.84 6 6 64300 20210625202653
+92.38.136.69 6 6 67218 20210625185608
+190.179.12.231 4 74 4049406 20210610204237
+190.2.138.14 4 4 41894 20210609184342
+113.128.188.35 4 28 1845958 20210605030732
+46.244.30.93 4 4 41894 20210603045445
+62.16.8.150 4 4 44812 20210625092607
+184.178.172.28 4 4 44812 20210623193931
+54.188.217.140 1 1 8285 20210622151516
+87.117.51.192 1 1 11203 20210605012310
+190.2.146.230 1 1 11203 20210616085736
+34.222.219.5 1 1 8285 20210626152005
+51.210.219.11 1 1 8285 20210610042311
+1.14.17.89 1 1 8285 20210602111853
+46.63.129.231 2 2 22406 20210625001937
+85.238.102.236 1 1 11203 20210615181637
+168.119.140.243 1 1 8285 20210624083128
+181.44.94.116 3 54 2743150 20210610122234
+218.201.62.71 1 1 8285 20210618135622
+34.220.225.19 1 1 8285 20210629153025
+175.44.42.191 1 1 8285 20210617221305
+188.187.128.116 1 1 11203 20210627171151
+34.236.55.223 2 2 16570 20210618002939
+191.101.217.10 1 1 11203 20210621080544
+69.171.251.18 0 2 30065 
+107.152.140.25 2 2 19488 20210611163739
+77.247.181.165 1 1 8285 20210608222537
+34.222.123.136 1 1 8285 20210602152301
+130.255.160.134 1 1 8285 20210627054934
+34.71.95.46 1 1 8285 20210621180759
+31.7.61.186 2 2 22406 20210605000011
+159.65.156.77 1 1 8285 20210624034835
+93.159.230.28 1 1 8285 20210608022414
+82.114.253.137 1 1 11203 20210610062452
+195.246.120.171 1 1 11203 20210629190331
+51.77.52.160 1 1 8285 20210617031642
+190.114.38.154 1 20 1031394 20210604161951
+54.187.25.242 1 1 8285 20210614113248
+80.249.146.168 1 1 8285 20210616135142
+186.143.163.89 2 13 477460 20210623225552
+54.201.194.217 1 1 8285 20210614124309
+188.163.46.213 3 3 33609 20210621092604
+195.246.120.179 2 2 19488 20210629074611
+62.16.11.210 1 1 11203 20210617104858
+18.234.59.61 1 1 8285 20210609101340
+80.83.21.18 2 2 8285 20210615112926
+46.4.116.11 2 2 16570 20210628231537
+194.59.246.76 1 1 11203 20210602203320
+46.45.185.163 0 3 53027 
+92.204.174.134 2 2 22406 20210624185325
+18.237.148.160 1 1 8285 20210603154536
+52.13.88.17 1 1 8285 20210618152725
+112.152.178.206 2 2 22406 20210630063049
+205.185.117.178 1 1 8285 20210617080926
+195.181.161.3 2 2 19488 20210629045242
+213.166.82.155 2 2 22406 20210608202057
+93.75.48.211 1 1 11203 20210619024343
+93.84.78.17 1 1 11203 20210611141800
+51.91.107.55 1 3 153399 20210610222254
+46.45.185.188 0 6 487967 
+18.237.145.108 1 1 8285 20210628153541
+178.122.195.235 1 1 11203 20210607115214
+35.163.2.202 1 1 8285 20210621152338
+85.209.89.76 2 2 22406 20210611082533
+43.224.8.124 1 1 11203 20210624071946
+42.236.10.125 0 3 181351 
+103.112.0.253 2 2 19488 20210620022854
+204.101.61.82 1 1 11203 20210613040516
+54.250.87.247 1 1 8285 20210616152040
+88.99.60.182 1 1 8285 20210603114150
+54.213.127.37 1 1 8285 20210621152318
+178.17.182.41 1 1 11203 20210619233955
+45.80.210.177 1 1 11203 20210613232643
+135.181.141.56 1 1 8285 20210609072548
+93.84.77.42 1 1 11203 20210604153537
+34.221.69.249 1 1 8285 20210614115925
+49.0.92.9 1 1 11203 20210601054131
+18.237.204.252 1 1 8285 20210617154012
+88.147.16.144 1 1 8285 20210624143714
+146.70.52.38 1 1 11203 20210625014740
+34.222.71.247 1 1 8285 20210616152823
+190.192.94.46 1 12 520123 20210618104624
+212.86.102.106 1 1 11203 20210619151036
+54.242.59.169 0 1 4326 
+194.58.39.239 1 1 11203 20210609075743
+34.216.131.251 1 1 8285 20210628151314
+156.146.63.156 1 1 11203 20210628121743
+45.131.194.146 1 1 11203 20210608143858
+35.162.172.220 1 1 8285 20210602152444
+217.138.194.121 3 3 24855 20210628151607
+213.164.204.152 1 1 11203 20210622061718
+54.185.245.169 1 1 8285 20210625150542
+54.214.116.247 1 1 8285 20210606151005
+54.202.153.104 1 1 8285 20210614113217
+54.149.255.237 1 1 8285 20210618152643
+184.178.172.13 2 2 22406 20210610142943
+35.195.111.149 1 1 8285 20210612232017
+129.146.248.160 3 3 24855 20210630085144
+103.216.82.153 1 1 11203 20210626090305
+37.120.235.167 2 2 19488 20210624135103
+89.191.229.30 1 1 11203 20210612100630
+62.16.2.217 2 2 22406 20210627144318
+54.189.230.128 1 2 12611 20210601025501
+213.57.154.48 1 1 11203 20210621105719
+69.171.251.23 0 2 19141 
+186.141.136.64 1 20 1031394 20210624143947
+31.134.125.80 2 2 22406 20210605063246
+159.242.227.42 1 1 8285 20210612050758
+37.45.160.100 1 1 11203 20210615090242
+72.13.62.26 3 3 27773 20210608090657
+159.48.55.253 1 1 11203 20210618051122
+159.48.53.171 1 1 11203 20210605234608
+77.81.139.36 2 2 19488 20210604032118
+186.189.238.182 1 5 195719 20210608074952
+35.162.223.118 1 1 8285 20210604152702
+34.251.241.226 1 1 8285 20210620074911
+46.30.43.152 2 2 22406 20210630230810
+34.77.152.204 1 1 8285 20210607084208
+176.114.190.62 2 2 22406 20210623075718
+198.144.120.177 2 2 19488 20210602014203
+18.215.230.164 1 1 8285 20210611061743
+31.40.129.203 1 1 11203 20210623132427
+194.63.140.36 2 2 22406 20210613062710
+103.143.77.227 2 2 19488 20210612204048
+42.236.10.106 0 2 34390 
+191.96.67.191 2 2 19488 20210623040514
+40.76.244.110 1 1 8285 20210627073302
+91.245.34.195 1 1 11203 20210601190756
+34.220.227.194 1 1 8285 20210629152840
+54.244.101.252 1 1 8285 20210623151955
+37.120.143.51 2 2 19488 20210624032056
+81.25.50.142 1 1 11203 20210607220108
+46.183.135.225 1 1 11203 20210615205707
+125.65.92.104 3 3 33609 20210625152312
+94.25.238.156 2 2 22406 20210615121750
+42.236.10.117 0 3 157955 
+130.255.160.128 3 3 21997 20210622183006
+52.38.165.33 1 1 8285 20210629152145
+64.225.18.209 2 2 16570 20210604184049
+54.190.15.223 1 1 8285 20210622151637
+18.237.88.90 1 1 8285 20210612221409
+93.176.156.200 1 15 600253 20210606065144
+156.146.59.166 2 2 22406 20210616094647
+178.213.21.185 2 2 19488 20210622142606
+54.187.169.58 1 1 8285 20210625170649
+80.94.27.137 1 1 11203 20210624053837
+143.198.174.224 1 1 8285 20210601183851
+46.33.40.178 1 1 11203 20210621131945
+186.143.164.182 0 10 579988 
+46.45.185.173 0 3 52771 
+68.235.50.244 3 3 24855 20210603150539
+95.105.124.53 1 1 11203 20210625182812
+34.212.115.233 1 1 8285 20210608153052
+34.217.112.86 1 1 8285 20210628154651
+162.55.212.81 1 1 8285 20210625211109
+54.190.41.204 1 1 8285 20210601152629
+34.86.35.19 1 1 8285 20210602091933
+103.240.161.108 1 1 11203 20210623063549
+34.221.251.234 1 1 8285 20210612222217
+191.101.31.101 1 1 8285 20210613193019
+54.187.19.153 1 1 8285 20210628151544
+34.219.150.36 1 1 8285 20210610155505
+35.161.117.110 1 1 8285 20210603152243
+35.165.184.99 1 1 8285 20210616153647
+45.133.173.88 2 2 19488 20210619180850
+3.134.116.189 1 1 8285 20210628225358
+135.181.4.98 1 1 11203 20210611200134
+191.101.250.172 1 1 11203 20210612125502
+194.60.69.201 2 2 22406 20210616081329
+68.65.23.130 1 1 11203 20210627070646
+45.80.210.226 1 1 11203 20210622190204
+196.240.54.116 1 1 11203 20210610073537
+54.244.175.203 1 1 8285 20210609153124
+181.132.42.7 2 23 1057448 20210607191216
+66.249.80.14 0 1 4326 
+192.71.42.108 1 1 8285 20210618225938
+108.62.154.70 1 1 8285 20210628024451
+132.145.173.231 1 1 8285 20210617185546
+212.3.150.2 1 1 8285 20210610113106
+188.235.215.140 2 2 19488 20210628072458
+64.246.165.150 1 1 8285 20210616120552
+69.160.160.53 1 1 8285 20210609165455
+136.144.41.127 1 1 8285 20210621113146
+54.244.166.191 1 1 8285 20210611150559
+40.124.194.67 3 3 24855 20210603131821
+31.42.185.24 1 1 11203 20210624001856
+194.79.6.102 1 1 11203 20210612024123
+34.212.139.107 1 1 8285 20210623152025
+66.249.80.12 1 1 8285 20210606225432
+54.70.241.252 1 1 8285 20210614112850
+35.195.62.89 1 1 8285 20210619053839
+54.149.184.113 1 1 8285 20210602154300
+46.45.185.189 0 4 115748 
+176.123.5.15 1 1 8285 20210617080928
+52.13.67.41 1 1 8285 20210612222144
+188.126.73.218 2 2 22406 20210629055510
+46.45.185.165 1 4 321881 20210609182845
+34.210.5.223 1 1 8285 20210606151105
+34.77.200.174 1 1 8285 20210627173737
+54.148.102.75 1 1 8285 20210628151833
+54.185.155.11 1 1 8285 20210624153748
+91.219.237.21 1 1 8285 20210617080919
+144.217.190.197 1 1 8285 20210607204853
+148.251.54.157 2 2 22406 20210619073535
+178.20.47.113 2 2 22406 20210614072300
+54.201.85.186 1 1 8285 20210617153940
+35.187.89.43 1 1 8285 20210622013024
+138.197.139.255 1 1 11203 20210615220329
+54.213.213.112 1 1 8285 20210610152950
+69.171.251.8 0 3 182452 
+181.167.104.23 1 20 1031394 20210615115943
+66.249.83.110 0 1 4326 
+118.140.151.98 2 2 22406 20210624001858
+172.94.71.2 1 1 11203 20210608103450
+181.209.100.174 2 23 1057448 20210616124523
+51.15.209.146 1 1 8285 20210612023424
+54.218.10.126 1 1 8285 20210612221244
+91.76.165.62 2 2 16570 20210602011744
+135.181.0.55 1 1 11203 20210624203032
+34.208.185.67 1 1 8285 20210608151652
+45.77.142.146 1 1 11203 20210613185023
+69.171.251.117 0 1 48944 
+212.129.56.201 1 1 8285 20210608073934
+23.94.177.135 2 2 19488 20210623132237
+35.161.251.164 2 2 16570 20210609154333
+89.39.107.208 1 1 11203 20210623162553
+54.191.238.255 1 1 8285 20210606150857
+18.197.125.181 1 1 8285 20210601161627
+45.32.86.19 2 2 16570 20210615132431
+104.149.134.218 3 3 33609 20210629111455
+54.218.81.254 1 1 8285 20210609153235
+179.127.16.138 3 3 30691 20210605071938
+92.100.151.212 2 2 22406 20210628091226
+194.183.170.59 2 2 22406 20210610151412
+35.161.108.191 1 1 8285 20210620150853
+34.78.152.159 1 1 8285 20210616094629
+54.149.111.40 1 1 8285 20210609154259
+93.158.90.161 1 1 8285 20210610035307
+34.221.25.0 1 1 8285 20210614124247
+45.81.226.57 1 1 11203 20210613194259
+191.101.250.50 1 1 11203 20210615013008
+209.141.38.113 1 1 11203 20210618201141
+94.198.50.98 1 1 11203 20210614214509
+54.70.69.81 1 1 8285 20210614120014
+37.19.223.209 2 2 19488 20210629210136
+69.171.251.19 1 6 217949 20210624091646
+13.232.96.15 1 1 8285 20210612123612
+68.65.20.58 1 1 11203 20210627070643
+154.16.66.159 1 1 11203 20210606072932
+167.114.173.203 1 1 8285 20210623140049
+107.175.132.77 1 1 8285 20210623013654
+35.183.60.188 1 1 8285 20210614021108
+199.127.56.236 1 20 1031394 20210629124403
+212.86.108.41 2 2 22406 20210629215504
+77.34.110.159 1 1 11203 20210624093347
+46.148.206.226 2 2 22406 20210607023514
+34.203.37.48 1 1 8285 20210613035656
+103.250.166.12 1 1 11203 20210623193907
+94.114.152.203 1 1 11203 20210606031237
+208.87.129.67 2 2 16570 20210606215024
+54.39.29.64 1 1 8285 20210604115329
+151.62.116.193 1 1 11203 20210617205847
+191.101.174.143 2 2 16570 20210608020631
+45.72.48.130 2 2 19488 20210619164322
+69.171.251.15 0 1 95931 
+18.236.97.23 1 1 8285 20210628153604
+34.220.56.144 1 1 8285 20210625150458
+54.212.110.174 1 1 8285 20210602152017
+69.171.251.11 0 3 207388 
+77.74.177.114 1 1 8285 20210623015503
+52.26.74.77 1 1 8285 20210607151946
+35.181.112.20 1 1 8285 20210611090418
+69.171.251.21 0 1 4326 
+69.61.200.104 1 1 11203 20210602212121
+141.98.87.227 1 1 8285 20210616051654
+34.223.2.157 1 1 8285 20210615151657
+156.146.63.160 2 2 19488 20210610094544
+54.201.151.57 2 2 16570 20210605150523
+173.208.106.100 1 1 11203 20210608223309
+128.14.133.50 1 1 8285 20210604082845
+118.67.216.94 1 1 11203 20210619231539
+66.249.83.106 1 1 8285 20210622184913
+42.193.8.97 0 1 34243 
+34.223.6.141 1 1 8285 20210604154341
+85.203.44.188 1 1 11203 20210601131952
+47.254.135.83 1 1 11203 20210628162055
+54.178.111.127 1 1 8285 20210604195248
+34.222.88.83 1 1 8285 20210628153624
+212.90.39.68 1 1 8285 20210615201412
+34.205.156.176 1 1 8285 20210620040622
+51.15.92.78 1 1 8285 20210616201629
+54.38.22.61 3 3 33609 20210608222541
+13.66.252.107 1 1 8285 20210614100549
+35.165.116.58 1 1 8285 20210615152759
+108.161.131.137 1 1 11203 20210621195949
+193.188.22.180 2 2 22406 20210614011025
+18.223.247.250 3 19 678213 20210630134216
+200.51.93.14 3 3 30691 20210611174430
+34.222.106.171 1 1 8285 20210605150549
+95.217.208.237 1 1 8285 20210629111221
+154.30.135.37 1 1 8285 20210625200833
+35.181.48.42 2 2 22406 20210618153401
+195.246.120.176 1 1 11203 20210630231432
+91.78.77.65 1 1 11203 20210626051041
+69.171.251.14 0 1 225198 
+193.188.21.175 3 3 33609 20210625130927
+45.64.134.198 1 1 11203 20210615015323
+51.91.218.19 1 20 1031394 20210610222311
+52.36.5.248 1 1 8285 20210628154712
+18.236.114.183 1 1 8285 20210611153209
+89.139.28.144 4 4 44812 20210629154014
+202.120.234.136 1 1 8285 20210602005015
+34.219.226.9 1 1 8285 20210628151344
+84.17.48.12 2 2 22406 20210626072137
+196.240.54.122 1 1 11203 20210630081908
+52.146.15.53 1 1 8285 20210623093140
+121.60.119.8 1 17 661643 20210616064357
+34.236.202.207 1 1 8285 20210604035513
+13.233.73.212 1 1 8285 20210618041143
+218.60.8.99 3 3 30691 20210624190325
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20210601 12 13 124172 12
+20210602 19 19 169087 14
+20210603 26 26 227082 13
+20210604 31 50 1317410 19
+20210605 30 58 2208583 14
+20210606 12 27 701550 9
+20210607 17 38 1207985 12
+20210608 35 39 540108 18
+20210609 26 45 1261863 16
+20210610 47 189 8353718 21
+20210611 18 26 549088 12
+20210612 21 21 200247 18
+20210613 12 12 128600 11
+20210614 27 27 268886 16
+20210615 31 51 1341584 19
+20210616 33 71 2052911 18
+20210617 10 10 88686 10
+20210618 14 25 648254 12
+20210619 12 12 125682 10
+20210620 12 12 105256 7
+20210621 16 16 167576 14
+20210622 20 21 190512 15
+20210623 26 47 1294222 21
+20210624 22 60 2260586 18
+20210625 29 29 281117 18
+20210626 14 14 145170 11
+20210627 16 17 196816 11
+20210628 29 29 257773 20
+20210629 21 40 1226274 16
+20210630 11 27 759083 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+0s-30s 420
+15mn-30mn 1
+5mn-15mn 3
+30s-2mn 6
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 13
+/ 329 2717480 237 206
+/contacto.html 254 2845562 189 211
+/nuestra_historia.html 11 186989 2 3
+/integrantes.html 9 223074 1 2
+/musica.html 9 76419 0 3
+/director.html 8 65560 0 1
+/agenda.html 6 50034 0 0
+/videos.html 6 41898 0 0
+/galeria.html 6 70662 0 2
+/benefactores.html 5 39535 0 1
+/redes_sociales.html 4 35084 1 1
+/tienda.html 1 6013 0 1
+/en_construccion.html 1 7493 1 0
+END_SIDER
