@@ -4,7 +4,7 @@
       name="viewport"
       content="width=device-width, initial-scale=1, minimum-scale=1"
     />
-	<link href="assets/images/c536e48b05fdf0d83aa90daa447a9ba9-400x400-1-122x122.jpg" rel="shortcut icon" type="image/x-icon" /><meta name="description" content="" />
+	<link href="assets/images/c536e48b05fdf0d83aa90daa447a9ba9-400x400-1-122x122.png" rel="shortcut icon" type="image/x-icon" /><meta name="description" content="" />
 	<title>GCC - Grupo de Canto Coral</title>
 	<link href="assets/tether/tether.min.css" rel="stylesheet" />
 	<link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
@@ -21,7 +21,7 @@
 <div class="hamburger"></div>
 
 <div class="menu-logo">
-<div class="navbar-brand"><span class="navbar-logo"><a href="index.html"><img alt="GCC" src="assets/images/c536e48b05fdf0d83aa90daa447a9ba9-400x400-1-122x122.jpg" style="height: 3.8rem;" title="" /> </a> </span> <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="index.html"> INICIO</a></span></div>
+<div class="navbar-brand"><span class="navbar-logo"><a href="index.html"><img alt="GCC" src="assets/images/c536e48b05fdf0d83aa90daa447a9ba9-400x400-1-122x122.png" style="height: 3.8rem;" title="" /> </a> </span> <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="index.html"> INICIO</a></span></div>
 </div>
 
 <div class="collapse navbar-collapse" id="navbarSupportedContent">
