@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - cd /home2/tqvkyzrk/public_html
+    - git pull
