@@ -1,7 +1,8 @@
 {
-    "folders": [
-        {
-            "path": "public_html"
-        }
-    ]
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
 }
