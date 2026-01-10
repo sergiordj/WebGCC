@@ -80,22 +80,35 @@
         <div class="mbr-overlay" style="opacity: 0.2; background-color: rgb(0, 0, 0);"></div>
 
         <div class="container align-content-center" style="padding-left:3em; padding-top: 2em">
-            <!-- Presentación -->
-            <div class="media-container-row">
-                <!-- Logo -->
-                <div class="mbr-figure" style="width: 45%; padding-right: 0;">
-                    <img src="assets/images/marquesina-gcc.png" alt="Logo GCC" title="Logo GCC">
-                </div>
+            
+			<!-- Presentación -->
+			<div class="row text-center text-md-left mt-4">
+				
+				<!-- Logo -->
+				<div class="col-12 mb-3">
+					<img src="assets/images/marquesina-gcc.png" alt="Logo GCC" title="Logo GCC" class="img-fluid mx-auto d-block" style="max-width: 250px;">
+				</div>
 
-                <!-- Nombre y Director -->
-                <div class="media-content" style="padding-top: 1em;">
-                    <h3 class="mbr-section-title mbr-white mbr-fonts-style display-2">GCC - Grupo de Canto Coral</h3>
-                    <div class="mbr-section-text mbr-white pb-3">
-                        <h3 class="mbr-text mbr-fonts-style display-6">Dirección: Néstor Andrenacci</h3>
-                        <p class="mbr-text mbr-fonts-style display-5">Argentina</p>
-                    </div>
-                </div>
-            </div>
+				<!-- Nombre y Director -->
+				<div class="col-12">
+					<style>
+						@media (max-width: 767px) {
+							.header-title { font-size: 1.5rem !important; }
+							.header-director { font-size: 1rem !important; }
+							.header-country { font-size: 1rem !important; }
+						}
+						@media (min-width: 768px) {
+							.header-title { font-size: 2.5rem !important; }
+							.header-director { font-size: 1.3rem !important; }
+							.header-country { font-size: 1.2rem !important; }
+						}
+					</style>
+
+					<h3 class="mbr-white header-title">GCC - Grupo de Canto Coral</h3>
+					<h4 class="mbr-white header-director">Dirección: Néstor Andrenacci</h4>
+					<p class="mbr-white header-country">Argentina</p>
+				</div>
+			</div>
 
             
 			<!-- Flyer -->
