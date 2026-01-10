@@ -112,14 +112,27 @@
 			</div>
 
             
+			
 			<!-- Flyer -->
 			<div class="row mt-4 flyer">
+				<style>
+					@media (max-width: 767px) {
+						.flyer img { max-width: 95% !important; } /* Más grande en móvil */
+					}
+					@media (min-width: 768px) {
+						.flyer img { max-width: 70% !important; } /* Ajuste en desktop */
+					}
+				</style>
+
 				<div class="col-12 text-center">
 					<a href="assets/images/flyers/2026/Convocatoria_voces.jpg" target="_blank">
-						<img src="assets/images/flyers/2026/Convocatoria_voces.jpg" alt="Convocatoria GCC" class="img-fluid mx-auto d-block" style="max-width: 90%;">
+						<img src="assets/images/flyers/2026/Convocatoria_voces.jpg" 
+							alt="Convocatoria GCC" 
+							class="img-fluid mx-auto d-block">
 					</a>
 				</div>
 			</div>
+
 			
 			<!-- Reconocimientos -->
 			<div class="row mt-4 text-center">
