@@ -82,16 +82,16 @@
 
 		<div class="container align-content-center main-section" style="padding-top: 2em;">
 			<style>
-				@media (max-width: 767px) {
+				@media (max-width: 767px) { /* Mobile */
 					.main-section { padding-left: 0 !important; padding-right: 0 !important; }
 					.flyer img { max-width: 95% !important; }
 					.recognition-left img { max-width: 35% !important; }
 					.recognition-right img { max-width: 90% !important; }
 					.recognition-left p { font-size: 0.6rem !important; }
 				}
-				@media (min-width: 768px) {
+				@media (min-width: 768px) { /* Desktop */
 					.main-section { padding-left: 3em !important; }
-					.flyer img { max-width: 80% !important; }
+					.flyer img { max-width: 85% !important; }
 					.recognition-left img { max-width: 25% !important; }
 					.recognition-right img { max-width: 40% !important; }
 					.recognition-left p { font-size: 0.9rem !important; }
@@ -128,9 +128,14 @@
 					<p class="mbr-text" style="color:#ffffff;">Embajadores del IFCM<br>Año 1993</p>
 				</div>
 
+				
 				<div class="col-6 col-md-8 mb-3 recognition-right d-flex justify-content-center">
-					<img src="assets/images/logo-mecenazgo-blanco.png" alt="Mecenazgo Buenos Aires" class="img-fluid">
+					<img src="assets/images/logo-mecenazgo-blanco.png" 
+						alt="Mecenazgo Buenos Aires" 
+						class="img-fluid mx-auto d-block align-center"
+						style="max-width: 40%; height: auto; object-fit: contain;">
 				</div>
+
 			</div>
 
 		</div>
